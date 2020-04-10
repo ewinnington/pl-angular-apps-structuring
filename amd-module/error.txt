@@ -1,1 +1,2 @@
 This AMD doesn't work right now, problem with syntax
+Node does not support the AMD system
