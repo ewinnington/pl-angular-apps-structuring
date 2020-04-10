@@ -3,3 +3,4 @@ typescript-module/dist
 first-ts-package/dist
 first-consumer/dist
 first-consumer/node_modules
+ng-packagr-demo/super-lib/dist
